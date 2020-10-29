@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshuman</h1>
 <h3 align="center">A passionate geek from India...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanmahato&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanmahato" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanmahato" alt="anshumanmahato" /></a> </p>
+
+- 📚 Currently pursuing **Bachelors in Computer Application** from **Mrs.K.M.P.M Vocational College.**
 
 - 💬 Ask me about **C,C++ and maybe JavaScript**
 
