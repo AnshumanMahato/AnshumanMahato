@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student🚀.</div>  
+# <div align="center">I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student🚀.</div>  
   
 
 <img src="https://raw.githubusercontent.com/AnshumanMahato/AnshumanMahato/main/img/profile.jpg" align="left" height="" width="200" />  
