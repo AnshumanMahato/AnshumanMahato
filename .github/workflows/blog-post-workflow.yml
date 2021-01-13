@@ -12,4 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.4.5
         with:
           feed_list: "https://dev.to/feed/anshumanmahato"
-          template: "$newline - $title $newline $description"
+          date_format: "UTC:ddd, mmm dd yyyy"
+          template: "$newline - $date - [$title]($url)"
