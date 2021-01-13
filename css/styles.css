@@ -19,11 +19,23 @@ body {
     width: 50%;
 }
 
+.hero {
+    font-size: 2rem;
+    margin: 1% 0
+}
+
+.hero > p {
+    width: 70%;
+    margin: 0 15%;
+    text-align: center;
+}
+
 .intro {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin: 2% 0;
 }
 
 .profile {
