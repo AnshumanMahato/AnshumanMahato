@@ -13,4 +13,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/anshumanmahato"
           date_format: "UTC:ddd, mmm dd yyyy"
-          template: "$newline ###[$title]($url) - $date"
+          template: "$newline ### [$title]($url) - $date"
