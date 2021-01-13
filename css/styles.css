@@ -73,3 +73,28 @@ hr{
 .desc > p {
     margin: 2% 0;
 }
+
+.contact {
+    margin: 2% 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.contact > p {
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.links > a {
+    border: solid 1px;
+    border-radius: 50px;
+    margin: 1% 2%;
+    padding: 1% 2%;
+}
