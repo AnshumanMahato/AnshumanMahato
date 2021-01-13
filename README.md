@@ -52,6 +52,7 @@
 
 <div align="left">
 <!-- BLOG-POST-LIST:START -->
+- [Good First Post!!!](https://dev.to/anshumanmahato/good-first-post-dme)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
