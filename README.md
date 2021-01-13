@@ -10,6 +10,8 @@
  
 </div>
 
+<br>
+
 <div>
 
 <img src="./assets/img/profile.jpg" width="35%" align="left">
