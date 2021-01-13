@@ -15,8 +15,17 @@
 <img src="./assets/img/profile.jpg" width="35%" align="left">
 
 - 🔭 I’m currently working on a Discord server moderation bot. 
-- 🌱 I’m currently learning Asynchronous - Javascript and MongoDB.
+
+<br> 
+
+- 🌱 I’m currently learning Asynchronous - Javascript and MongoDB. 
+
+<br> 
+
 - ❓ Ask me about anything related to C, C++, Javascript and bot creation in Discord and Telegram. 
+
+<br>
+
 - ⚡ Fun fact: There is no place like 127.0.0.1 
 </div>
 
