@@ -46,17 +46,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&layout=compact&langs_count=6" align="right">
 </div>
 
-    </div>
+</div>
 
-    <hr>
+<hr>
 
-    <div  contact">
+<div>
          
-            Connect with me
+Connect with me
          
-        <div  links">
-            <a  btn-dev" href="https://dev.to/anshumanmahato"><i  flaticon-dev-badge"></i> Dev.to</a>
-            <a  btn-insta" href="https://instagram.com/anshuman_mahato"><i  flaticon-instagram"></i> Instagram</a>
-            <a  btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i  flaticon-facebook"></i> Facebook</a>
-        </div>
-    </div>
+<div  links">
+<a  btn-insta" href="https://instagram.com/anshuman_mahato"><i  flaticon-instagram"></i> Instagram</a>
+<a  btn-dev" href="https://dev.to/anshumanmahato"><i  flaticon-dev-badge"></i> Dev.to</a>
+<a  btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i  flaticon-facebook"></i> Facebook<a>
+</div>
+</div>
