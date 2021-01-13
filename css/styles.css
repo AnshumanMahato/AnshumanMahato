@@ -74,14 +74,15 @@ hr{
     margin: 2% 0;
 }
 
-.contact {
+.contact,
+.github-stats {
     margin: 2% 0;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
 }
 
-.contact > p {
+.contact > p,
+.github-stats > p {
     text-align: center;
     font-size: 1.8rem;
 }
@@ -97,4 +98,14 @@ hr{
     border-radius: 50px;
     margin: 1% 2%;
     padding: 1% 2%;
+}
+
+.github-stats > div {
+    display: flex;
+    justify-content: center;
+}
+
+.github-stats > div > img {
+    height: 32vh;
+    margin: 2%
 }
