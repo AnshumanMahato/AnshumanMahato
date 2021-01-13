@@ -53,7 +53,19 @@
 <div align="left">
  
 <!-- BLOG-POST-LIST:START -->
-- [Good First Post!!!](https://dev.to/anshumanmahato/good-first-post-dme)
+ - Good First Post!!! 
+ <p>Let's start with stating that this is my very first post on "dev.to". It's been a few months since I came to know about this platform. I came across this platform while working on HacktoberFest2020 (By the way, it was my first HacktoberFest as well). </p>
+
+<p><a href="https://res.cloudinary.com/practicaldev/image/fetch/s--ajMQTmyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/drrkc80epcadpljzyqlo.png" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajMQTmyU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/drrkc80epcadpljzyqlo.png" alt="Alt Text"></a></p>
+
+<p>When I came here, at first, it seemed to me like a blog. But then, I realised that it's not just a simple blog, but a social media platform that focuses primarily on developers. A community of coders.</p>
+
+<p>Until now, I did not have any plans to post here. Just came here to get some tutorials, read some stuff and that was all I did here. But recently, I had this idea of documenting my coding journey. And "DEV.To" seemed like a really great option for this purpose. And this is where I begin. From here onwards, I have decided that this year, I'll be posting one article every week regarding whatever I'd be learning in that week. </p>
+
+<p>Wishing you guys a Very Happy New Year!!! </p>
+
+<p><a href="https://res.cloudinary.com/practicaldev/image/fetch/s--uT_e5e0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/z6dwufeyyt6wv309gn66.png" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uT_e5e0C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/z6dwufeyyt6wv309gn66.png" alt="Alt Text"></a></p>
+
 <!-- BLOG-POST-LIST:END -->
 
 </div>
