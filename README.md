@@ -45,8 +45,14 @@
 
 </div>
 
-<hr>
+----
+<div align="center">
 
+# Blog Posts
+
+</div>
+
+----
 <div>
          
 Connect with me
