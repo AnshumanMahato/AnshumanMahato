@@ -1,45 +1,34 @@
-<link rel="stylesheet" href="./css/styles.css">
-<link rel="stylesheet" href="./css/flaticon.css">
+<center>
+<img src="./assets/svg/logoAsset 1.svg" width="70%">
+</center>
 
-<div class="hello">
-<img src="./assets/svg/logoAsset 1.svg" alt="" srcset="">
+<div>
+ 
+# I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
+ 
 </div>
 
-<div class="hero">
-<p>
-I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
-</p>
-</div>
-
-<div class="intro">
-<div class="profile">
+<div>
+<div>
 <img src="./assets/img/profile.jpg" alt="">
 </div>
- <div class="desc">
- <p>
-        🔭 I’m currently working on a Discord server moderation bot.
-     </p>
-     <p>
-                🌱 I’m currently learning Asynchronous Javascript and MongoDB.
-            </p>
-            <p>
-                ❓ Ask me about anything related to C, C++, Javascript and bot creation in Discord and Telegram.
-            </p>
-            <p>
-                ⚡ Fun fact: There is no place like 127.0.0.1
-            </p>
-        </div>
-    </div>
+<div>
+🔭 I’m currently working on a Discord server moderation bot. 
+🌱 I’m currently learning Asynchronous Javascript and MongoDB.
+❓ Ask me about anything related to C, C++, Javascript and bot creation in Discord and Telegram. 
+⚡ Fun fact: There is no place like 127.0.0.1 
+</div>
+</div>
 
-    <hr>
+<hr>
 
-    <div class="github-stats">
+    <div  github-stats">
 
-        <p>
+         
             Github Statistics
-        </p>
+         
 
-        <div class="cards">
+        <div  cards">
             <img src="https://github-readme-stats.vercel.app/api?username=anshumanmahato&count_private=true&show_icons=true&custom_title=Contributions" alt="">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&layout=compact&langs_count=6" alt="">
         </div>
@@ -48,13 +37,13 @@ I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student�
 
     <hr>
 
-    <div class="contact">
-        <p>
+    <div  contact">
+         
             Connect with me
-        </p>
-        <div class="links">
-            <a class="btn-dev" href="https://dev.to/anshumanmahato"><i class="flaticon-dev-badge"></i> Dev.to</a>
-            <a class="btn-insta" href="https://instagram.com/anshuman_mahato"><i class="flaticon-instagram"></i> Instagram</a>
-            <a class="btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i class="flaticon-facebook"></i> Facebook</a>
+         
+        <div  links">
+            <a  btn-dev" href="https://dev.to/anshumanmahato"><i  flaticon-dev-badge"></i> Dev.to</a>
+            <a  btn-insta" href="https://instagram.com/anshuman_mahato"><i  flaticon-instagram"></i> Instagram</a>
+            <a  btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i  flaticon-facebook"></i> Facebook</a>
         </div>
     </div>
