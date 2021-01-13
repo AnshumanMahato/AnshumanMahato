@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.hello {
+    position: relative;
+    vertical-align: middle;
+}
+
+.hello > img {
+    margin: 2% 25%;
+    width: 50%;
+}
