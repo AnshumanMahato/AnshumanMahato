@@ -51,9 +51,11 @@
 # Blog Posts
 
 <div align="left">
+ 
 <!-- BLOG-POST-LIST:START -->
-- [Good First Post!!!](https://dev.to/anshumanmahato/good-first-post-dme)
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->
+
 </div>
 
 </div>
