@@ -14,19 +14,19 @@
 
 <img src="./assets/img/profile.jpg" width="35%" align="left">
 
-- 🔭 I’m currently working on a Discord server moderation bot. 
+- 🔭 I’m currently working on a **Discord server moderation bot**. 
 
 <br> 
 
-- 🌱 I’m currently learning Asynchronous - Javascript and MongoDB. 
+- 🌱 I’m currently learning **Asynchronous Javascript and MongoDB**. 
 
 <br> 
 
-- ❓ Ask me about anything related to C, C++, Javascript and bot creation in Discord and Telegram. 
+- ❓ Ask me about anything related to __C, C++, Javascript and bot creation in Discord and Telegram__. 
 
 <br>
 
-- ⚡ Fun fact: There is no place like 127.0.0.1 
+- ⚡ Fun fact: __There is no place like 127.0.0.1__ 
 </div>
 
 <br>
