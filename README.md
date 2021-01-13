@@ -36,16 +36,12 @@
 
 ----
 
-<div>
-
-         
-## Github Statistics
-         
-
 <div align="center">
+
+# Github Statistics
+         
 <img src="https://github-readme-stats.vercel.app/api?username=anshumanmahato&count_private=true&show_icons=true&custom_title=Contributions"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&layout=compact&langs_count=6">
-</div>
 
 </div>
 
