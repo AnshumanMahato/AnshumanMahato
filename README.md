@@ -1,5 +1,5 @@
-<!-- <link rel="stylesheet" href="./css/styles.css">
-<link rel="stylesheet" href="./css/flaticon.css"> -->
+<link rel="stylesheet" href="./css/styles.css">
+<link rel="stylesheet" href="./css/flaticon.css">
 
 <div class="hello">
 <img src="./assets/svg/logoAsset 1.svg" alt="" srcset="">
