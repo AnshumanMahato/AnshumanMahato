@@ -1,26 +1,25 @@
-<link rel="stylesheet" href="./css/styles.css">
-<link rel="stylesheet" href="./css/flaticon.css">
-<body>
+<!-- <link rel="stylesheet" href="./css/styles.css">
+<link rel="stylesheet" href="./css/flaticon.css"> -->
 
-    <div class="hello">
-        <img src="./assets/svg/logoAsset 1.svg" alt="" srcset="">
-    </div>
+<div class="hello">
+<img src="./assets/svg/logoAsset 1.svg" alt="" srcset="">
+</div>
 
-    <div class="hero">
-        <p>
-            I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
-        </p>
-    </div>
+<div class="hero">
+<p>
+I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
+</p>
+</div>
 
-    <div class="intro">
-        <div class="profile">
-            <img src="./assets/img/profile.jpg" alt="">
-        </div>
-        <div class="desc">
-            <p>
-                🔭 I’m currently working on a Discord server moderation bot.
-            </p>
-            <p>
+<div class="intro">
+<div class="profile">
+<img src="./assets/img/profile.jpg" alt="">
+</div>
+ <div class="desc">
+ <p>
+        🔭 I’m currently working on a Discord server moderation bot.
+     </p>
+     <p>
                 🌱 I’m currently learning Asynchronous Javascript and MongoDB.
             </p>
             <p>
@@ -59,6 +58,3 @@
             <a class="btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i class="flaticon-facebook"></i> Facebook</a>
         </div>
     </div>
-
-</body>
-</html>
