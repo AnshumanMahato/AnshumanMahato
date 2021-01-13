@@ -9,6 +9,11 @@ body {
     max-width: 100vw;
 }
 
+a,
+a:visited,
+a:active,
+a:hover {text-decoration: none;}
+
 hr{
     width: 50%;
     margin: 0 auto;
@@ -44,7 +49,7 @@ hr{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 2% 0;
+    margin: 4% 0 3%;
 }
 
 .profile {
