@@ -58,15 +58,17 @@
 </div>
 
 </div>
+<br>
 
 ----
-<div>
+<br>
+<div align="center">
          
-Connect with me
-         
-<div  links">
-<a  btn-insta" href="https://instagram.com/anshuman_mahato"><i  flaticon-instagram"></i> Instagram</a>
-<a  btn-dev" href="https://dev.to/anshumanmahato"><i  flaticon-dev-badge"></i> Dev.to</a>
-<a  btn-fb" href="https://www.facebook.com/anshuman.mahato.0935"><i  flaticon-facebook"></i> Facebook<a>
-</div>
+### Connect with me 
+<br/>
+
+[<img src="assets\svg\instagram-2-1.svg" height="50px">](https://instagram.com/anshuman_mahato)&nbsp;&nbsp;&nbsp;
+[<img src="assets\svg\dev-badge.svg" height="55">](https://dev.to/anshumanmahato)&nbsp;
+[<img src=".\assets\svg\Facebook-01.svg" height="60px">](https://www.facebook.com/anshuman.mahato.0935)
+
 </div>
