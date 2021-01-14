@@ -53,6 +53,7 @@
 <div align="left">
  
 <!-- BLOG-POST-LIST:START -->
+ ### [What is a Good Code?](https://dev.to/anshumanmahato/what-is-a-good-code-5ana) - Thu, Jan 14 2021
  ### [Good First Post!!!](https://dev.to/anshumanmahato/good-first-post-dme) - Thu, Jan 07 2021<!-- BLOG-POST-LIST:END -->
 
 </div>
