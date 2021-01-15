@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center"> 
+<div align="center" background="./assets/img/profile.jpg"> 
 
 # I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
  
