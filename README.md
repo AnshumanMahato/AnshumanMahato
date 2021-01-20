@@ -43,6 +43,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anshumanmahato&count_private=true&show_icons=true&custom_title=Contributions"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&layout=compact&langs_count=6">
 
+<br>
+
+<!--START_SECTION:waka-->
+This hould be replaced by stats...
+<!--END_SECTION:waka-->
+
 </div>
 
 ----
