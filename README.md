@@ -46,6 +46,79 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-184-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 134 Contributions in the Year 2021
+ > 
+> 📦 96.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    45 commits     ████████░░░░░░░░░░░░░░░░░   34.88% 
+🌆 Daytime    60 commits     ███████████░░░░░░░░░░░░░░   46.51% 
+🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Wednesday    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Friday       32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.81% 
+Saturday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C++                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/AnshumanMahato/AnshumanMahato/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </div>
