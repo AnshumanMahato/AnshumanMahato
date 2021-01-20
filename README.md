@@ -46,7 +46,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-This hould be replaced by stats...
 <!--END_SECTION:waka-->
 
 </div>
