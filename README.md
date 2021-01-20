@@ -40,9 +40,10 @@
 
 # Github Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumanmahato&count_private=true&hide_border=true&show_icons=true&custom_title=Contributions"> 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&hide_border=true&layout=compact&langs_count=6">
+<details>
+<summary>hello</summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumanmahato&count_private=true&hide_border=true&show_icons=true&custom_title=Contributions" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanmahato&hide_border=true&layout=compact&langs_count=6" />
+</details>
 
 <br>
 
