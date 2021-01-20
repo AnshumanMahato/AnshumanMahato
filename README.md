@@ -44,63 +44,15 @@
 </div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshumanmahato&hide_border=true" />
 
-<br>
+<br/>
+<br/>
 
 <div align="left">
 
-<details>
-<summary><b>See Detailed Info</b></summary>
+## Details
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-226-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 144 Contributions in the Year 2021
- > 
-> 📦 96.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    45 commits     ████████░░░░░░░░░░░░░░░░░   34.88% 
-🌆 Daytime    60 commits     ███████████░░░░░░░░░░░░░░   46.51% 
-🌃 Evening    24 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Wednesday    25 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-Friday       32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.81% 
-Saturday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
-</details>
 
 </div>
 
