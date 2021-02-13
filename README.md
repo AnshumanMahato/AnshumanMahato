@@ -1,20 +1,15 @@
-<div align="center">
-<img src="./assets/svg/logoAsset 1.svg" width="70%">
-</div>
 
-<br>
-
-<div align="center" background="./assets/img/profile.jpg"> 
-
-# I'm Anshuman, a passionate geek from India👨‍💻. I'm currently a student👨‍🎓 and aspire to be a developer🚀.
- 
-</div>
+<img src=".\assets\img\output-onlinepngtools.png">
 
 <br>
 
 <div>
+<div align="center">
 
-<img src="./assets/img/profile.jpg" width="35%" align="left">
+# About Me
+
+</div>
+
 
 - 🔭 I’m currently working on a **Discord server moderation bot**. 
 
