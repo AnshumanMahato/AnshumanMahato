@@ -109,6 +109,7 @@ VS Code                  7 hrs               ███████████�
 <div align="left">
  
 <!-- BLOG-POST-LIST:START -->
+ ### [Readability](https://dev.to/anshumanmahato/readability-2f7l) - Wed, Jan 20 2021
  ### [What is a Good Code?](https://dev.to/anshumanmahato/what-is-a-good-code-5ana) - Thu, Jan 14 2021<!-- BLOG-POST-LIST:END -->
 
 </div>
