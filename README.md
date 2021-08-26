@@ -56,9 +56,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -94,7 +94,7 @@ VS Code                  4 hrs 31 mins       ███████████�
 ```
 
 
- Last Updated on 25/08/2021
+ Last Updated on 26/08/2021
 <!--END_SECTION:waka-->
 
 </div>
