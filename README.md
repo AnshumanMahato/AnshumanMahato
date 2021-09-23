@@ -46,13 +46,13 @@
 ## Details
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 837 Contributions in the Year 2021
  > 
-> 📦 109.6 kB Used in GitHub's Storage 
+> 📦 109.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,7 +94,7 @@ VS Code                  18 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 </div>
