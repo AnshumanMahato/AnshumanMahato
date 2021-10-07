@@ -109,6 +109,7 @@ VS Code                  18 hrs 52 mins      ███████████�
 <div align="left">
  
 <!-- BLOG-POST-LIST:START -->
+ ### [Scalability, Complexity and Complexity Analysis](https://dev.to/anshumanmahato/scalability-complexity-and-complexity-analysis-1pn5) - Thu, Jul 15 2021
  ### [Readability](https://dev.to/anshumanmahato/readability-2f7l) - Wed, Jan 20 2021
  ### [What is a Good Code?](https://dev.to/anshumanmahato/what-is-a-good-code-5ana) - Thu, Jan 14 2021<!-- BLOG-POST-LIST:END -->
 
