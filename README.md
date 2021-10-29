@@ -46,7 +46,7 @@
 ## Details
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,9 +56,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -89,12 +89,12 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/10/2021
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 </div>
