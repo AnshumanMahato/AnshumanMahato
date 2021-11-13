@@ -46,7 +46,7 @@
 ## Details
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,12 +89,12 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 </div>
