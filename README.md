@@ -52,7 +52,7 @@
 
 > 🏆 997 Contributions in the Year 2021
  > 
-> 📦 120.1 kB Used in GitHub's Storage 
+> 📦 120.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,12 +89,12 @@ Sunday       75 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 </div>
