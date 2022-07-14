@@ -54,7 +54,7 @@
 
 > 🏆 275 Contributions in the Year 2022
  > 
-> 📦 158.7 kB Used in GitHub's Storage 
+> 📦 158.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,12 +91,12 @@ Sunday       69 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  30 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  30 hrs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/07/2022 18:44:12 UTC
+ Last Updated on 14/07/2022 18:45:34 UTC
 <!--END_SECTION:waka-->
 
 </div>
