@@ -46,7 +46,7 @@
 ## Details
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -58,9 +58,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 10 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -91,12 +91,12 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/09/2022 18:51:28 UTC
+ Last Updated on 13/09/2022 18:50:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
