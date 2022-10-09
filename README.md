@@ -46,7 +46,7 @@
 ## Details
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -91,12 +91,12 @@ Sunday       56 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/10/2022 18:51:05 UTC
+ Last Updated on 09/10/2022 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
