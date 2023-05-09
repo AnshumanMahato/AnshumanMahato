@@ -1,8 +1,3 @@
-
-<img src=".\assets\img\output-onlinepngtools.png">
-
-<br>
-
 <div>
  
 # 💫 About Me:
