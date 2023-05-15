@@ -3,6 +3,12 @@
 # 💫 About Me:
  
 I am an aspiring developer and mainly focus on web technology. Till now, I have acquired proficiency in HTML, CSS, JavaScript, Bootstrap, NodeJS, Express, and MongoDB. I am currently learning React and Tailwind.<br><br>That's it from my side! I will love to connect with you.
+	
+<div align=>
+	<img src="https://badge.stateful.com/AnshumanMahato/status.svg" alt="Status for AnshumanMahato"/>
+	<br/>
+	<img src="https://badge.stateful.com/AnshumanMahato/dnd.svg" alt="DnD for AnshumanMahato"/>
+</div>
 
 ## 🌐 Socials:
  
