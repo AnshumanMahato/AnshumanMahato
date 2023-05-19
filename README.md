@@ -17,7 +17,7 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 # 💻 Tech Stack:
  
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb" alt="skills"/>
+	<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,docker" alt="skills"/>
 </div>
  
 # 📊 GitHub Stats:
