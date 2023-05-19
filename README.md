@@ -28,7 +28,7 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 
 ## 🏆 GitHub Trophies
  
-![](https://github-profile-trophy.vercel.app/?username=AnshumanMahato&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AnshumanMahato&theme=nord&no-frame=true&margin-w=4&title=Stars,Followers,Commits,Issues,Repositories,PR)
 
 ### ✍️ Random Dev Quote
  
