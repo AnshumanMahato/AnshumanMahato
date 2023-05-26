@@ -21,10 +21,14 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 </div>
  
 # 📊 GitHub Stats:
- 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AnshumanMahato&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnshumanMahato&theme=react&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanMahato&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<div align="center">
+	![](https://github-readme-stats.vercel.app/api?username=AnshumanMahato&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=AnshumanMahato&theme=react&hide_border=false)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanMahato&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+	
+
 
 ## 🏆 GitHub Trophies
  
