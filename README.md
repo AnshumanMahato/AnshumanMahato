@@ -4,12 +4,6 @@
  
 I am an aspiring developer and mainly focus on web technology. Till now, I have acquired proficiency in HTML, CSS, JavaScript, Bootstrap, NodeJS, Express, and MongoDB. I am currently learning TypeScript and Web Design.<br><br>That's it from my side! I would love to connect with you.
 	
-<div align=>
-	<img src="https://badge.stateful.com/AnshumanMahato/status.svg" alt="Status for AnshumanMahato"/>
-	<br/>
-	<img src="https://badge.stateful.com/AnshumanMahato/dnd.svg" alt="DnD for AnshumanMahato"/>
-</div>
-
 ## 🌐 Socials:
  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anshuman.mahato.0935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_mahato) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-mahato) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnshumanMahato_) 
