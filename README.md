@@ -35,4 +35,7 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
-<!-- blogs comming soon 1234-->
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
