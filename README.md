@@ -38,4 +38,9 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
+- [Exploring React Hooks: Simplifying State and Lifecycle in Functional Components](https://dev.to/anshumanmahato/exploring-react-hooks-simplifying-state-and-lifecycle-in-functional-components-56ch)
+- [Learning Journal - Digileger Project Log](https://dev.to/anshumanmahato/learning-journal-digileger-project-log-3acd)
+- [Scalability, Complexity and Complexity Analysis](https://dev.to/anshumanmahato/scalability-complexity-and-complexity-analysis-1pn5)
+- [Readability](https://dev.to/anshumanmahato/readability-2f7l)
 <!-- BLOG-POST-LIST:END -->
