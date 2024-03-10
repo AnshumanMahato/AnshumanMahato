@@ -28,14 +28,14 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
  
 ![](https://github-profile-trophy.vercel.app/?username=AnshumanMahato&theme=nord&no-frame=true&margin-w=4&title=Stars,Followers,Commits,Issues,Repositories,PR)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
-## Blog posts
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
