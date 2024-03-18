@@ -17,9 +17,9 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For intricate state handling, try out the useReducer&lpar;&rpar; Hook](https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952)
 - [Mastering React Context: Simplifying State Management and Prop Drilling](https://dev.to/anshumanmahato/mastering-react-context-simplifying-state-management-and-prop-drilling-2k0f)
 - [Exploring React Hooks: Simplifying State and Lifecycle in Functional Components](https://dev.to/anshumanmahato/exploring-react-hooks-simplifying-state-and-lifecycle-in-functional-components-56ch)
-- [Learning Journal - Digileger Project Log](https://dev.to/anshumanmahato/learning-journal-digileger-project-log-3acd)
 <!-- BLOG-POST-LIST:END -->
  
 # 📊 GitHub Stats:
