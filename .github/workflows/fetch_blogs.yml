@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/anshumanmahato"
           max_post_count: 3
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline"
