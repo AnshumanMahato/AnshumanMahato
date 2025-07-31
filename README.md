@@ -17,11 +17,11 @@ I am an aspiring developer and mainly focus on web technology. Till now, I have 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💫[Understanding JavaScript Execution with some Pizza](https://dev.to/anshumanmahato/understanding-javascript-execution-with-some-pizza-2foa) 
+ - 💫[Inside JavaScript Runtime Environment](https://dev.to/anshumanmahato/inside-javascript-runtime-environment-972) 
 
- - 🚀[JavaScript Fundamentals You Should Know](https://dev.to/anshumanmahato/javascript-fundamentals-you-should-know-3lok) 
+ - 🚀[Understanding JavaScript Execution with some Pizza](https://dev.to/anshumanmahato/understanding-javascript-execution-with-some-pizza-2foa) 
 
- - 💯[Managing Event Flow: A Deep Dive into JavaScript Event Propagation](https://dev.to/anshumanmahato/managing-event-flow-a-deep-dive-into-javascript-event-propagation-2gha) 
+ - 💯[JavaScript Fundamentals You Should Know](https://dev.to/anshumanmahato/javascript-fundamentals-you-should-know-3lok) 
 <!-- BLOG-POST-LIST:END -->
  
 # 📊 GitHub Stats:
